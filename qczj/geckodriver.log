@@ -1,0 +1,768 @@
+1536673635101	geckodriver	INFO	geckodriver 0.19.1
+1536673635162	geckodriver	INFO	Listening on 127.0.0.1:52055
+1536673638175	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.XWn2oIMF29ou"
+1536673640314	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536673641361	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536673646116	Marionette	INFO	Listening on port 52067
+1536673646180	Marionette	INFO	Listening on port 52067
+1536673646563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536673646710	Marionette	DEBUG	loaded listener.js
+1536673646848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536673647324	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536673647325	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536673649256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536673649603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536673649608	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536673650630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536673653967	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536673654060	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536673654062	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536673654651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1536673654667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536673654675	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536673654688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536673654694	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536673655334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536673655347	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 167ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536673655887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536673657297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536673658489	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536673658523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+[GPU 11804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536805673192	geckodriver	INFO	geckodriver 0.19.1
+1536805673221	geckodriver	INFO	Listening on 127.0.0.1:54960
+1536805676277	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.biTH9dPYFVhM"
+1536805779501	geckodriver	INFO	geckodriver 0.19.1
+1536805779513	geckodriver	INFO	Listening on 127.0.0.1:55231
+1536805782556	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.vXwVM1Sb4QsK"
+1536805811362	geckodriver	INFO	geckodriver 0.19.1
+1536805811379	geckodriver	INFO	Listening on 127.0.0.1:55304
+1536805814438	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.nBDQ4wJ0xHGm"
+1536805989756	geckodriver	INFO	geckodriver 0.19.1
+1536805989767	geckodriver	INFO	Listening on 127.0.0.1:55666
+1536805992830	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.rf49tnzEeg6D"
+1536806258603	geckodriver	INFO	geckodriver 0.19.1
+1536806258615	geckodriver	INFO	Listening on 127.0.0.1:56049
+1536806261657	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.iaHcd64doutz"
+1536806309037	geckodriver	INFO	geckodriver 0.19.1
+1536806309049	geckodriver	INFO	Listening on 127.0.0.1:56139
+1536806312047	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.eEfASmBs2Yh5"
+1536806823265	geckodriver	INFO	geckodriver 0.19.1
+1536806823277	geckodriver	INFO	Listening on 127.0.0.1:57173
+1536806826342	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-headless" "--disable-gpu" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.OWbSrqWBIEnB"
+1536806876449	geckodriver	INFO	geckodriver 0.19.1
+1536806876462	geckodriver	INFO	Listening on 127.0.0.1:57298
+1536806879528	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.6OBePzoduaeK"
+1536806880556	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536806881528	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536806886529	Marionette	INFO	Listening on port 57313
+1536806886633	Marionette	INFO	Listening on port 57313
+1536806886885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536806886941	Marionette	DEBUG	loaded listener.js
+1536806887103	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536806887569	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536806887570	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536806888833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536806888980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536806888987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536806890224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536806893517	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536806893677	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536806893681	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536806893966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1536806893992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536806893993	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536806894224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536806894226	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 95ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536806895052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536806895054	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536806895137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536806896626	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1536806896628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1536806896630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1536806896632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1536806896634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483651"
+[GPU 12756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13276] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536814726524	geckodriver	INFO	geckodriver 0.19.1
+1536814726537	geckodriver	INFO	Listening on 127.0.0.1:53887
+1536814729539	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.XISKNdLaWVEj"
+1536814731058	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536814731937	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536814738462	Marionette	INFO	Listening on port 53902
+1536814738504	Marionette	INFO	Listening on port 53902
+1536814739062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536814739106	Marionette	DEBUG	loaded listener.js
+1536814739291	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536814739745	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536814739745	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536814741352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814741518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814741524	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814743491	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814746767	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814746802	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814746803	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814747141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814747148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814747157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1536814747420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814747423	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814748260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814748263	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 108ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814749201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814749726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1536814750176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814750182	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814750496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814751720	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814751815	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814751817	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814752317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1536814752317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1536814752318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1536814752318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1536814752319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814752323	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814752366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814752371	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 94ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814753380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814753382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814753419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814754250	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1536814754438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814754439	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814754819	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814755622	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814755717	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814755717	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814755947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1536814755947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1536814755947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1536814755947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1536814755962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814755964	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814755996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814755997	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814756425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814756427	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 75ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814757041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814757218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814757219	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814757351	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814758267	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814758345	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814758346	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814758567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1536814758567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1536814758568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1536814758568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1536814758569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814758571	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814758592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814758593	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814759111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814759113	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 90ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814759713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814759901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814759902	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814761921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814763106	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814763232	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814763234	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+[Parent 15820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536814763907	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1536814763907	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1536814763907	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1536814763916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1536814763978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814763979	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814763980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814763980	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 72ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+[GPU 11948] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536814891650	geckodriver	INFO	geckodriver 0.19.1
+1536814891661	geckodriver	INFO	Listening on 127.0.0.1:54313
+1536814894616	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.VvProGXfwiIN"
+1536814895562	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536814896252	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536814899452	Marionette	INFO	Listening on port 54325
+1536814899456	Marionette	INFO	Listening on port 54325
+1536814899877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536814899966	Marionette	DEBUG	loaded listener.js
+1536814900026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536814900914	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536814900915	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536814901573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814901755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814901758	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814902619	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814905823	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814905853	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814905854	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814906170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1536814906172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814906174	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814906400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814906401	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814906854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814906871	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 96ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814907485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814908123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1536814908488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814908491	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814909337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814909459	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814909548	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814909550	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814909894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1536814909895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1536814909895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1536814909896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1536814909930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814909933	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814909934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814909938	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814910478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814910484	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 90ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814911107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814911396	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814911506	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814911642	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814911643	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536814912039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1536814912040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1536814912041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1536814912042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1536814912042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814912044	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814912068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814912069	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 75ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814912990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814913053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814913065	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814913227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814913228	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814913238	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814913304	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536814913338	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536814913338	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+[Parent 3108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536814913570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1536814913570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1536814913571	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1536814913571	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1536814913610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814913616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814913629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814913630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 74ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536814914652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814914662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536814914664	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536814914839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814914840	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536814914848	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Error { repr: Os { code: 10054, message: "远程主机强迫关闭了一个现有的连接。" } }', src\libcore\result.rs:906:4
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+[GPU 11660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536816214779	geckodriver	INFO	geckodriver 0.19.1
+1536816214800	geckodriver	INFO	Listening on 127.0.0.1:56757
+1536816217843	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.rz0wPh17v8ta"
+1536816218754	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536816219410	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656] WARNING: pipe er1536816222207	Marionette	INFO	Listening on port 56769
+1536816222215	Marionette	INFO	Listening on port 56769
+1536816223074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536816223129	Marionette	DEBUG	loaded listener.js
+1536816223179	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536816223611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536816223612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536816224261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816224634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816224636	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816225517	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816228709	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536816228818	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536816228820	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536816229065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816229068	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816229127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1536816229322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816229324	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816229678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816229679	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 79ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536816230572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816231050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1536816231395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816231397	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816231668	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816231767	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536816231913	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536816231915	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536816232259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1536816232259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1536816232259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1536816232260	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1536816232317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816232319	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816232321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816232324	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 74ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536816233280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816233297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816233299	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816233541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1536816233603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816233605	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816233974	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816234040	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536816234144	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536816234146	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536816234500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1536816234502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1536816234503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1536816234504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1536816234526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816234529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816234552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816234553	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816235273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816235277	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 78ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536816235767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816235919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816235924	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816235957	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816236024	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536816236096	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536816236097	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536816236334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1536816236352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1536816236353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1536816236354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1536816236370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816236372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816236408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816236411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816236608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816236623	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 74ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536816237253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816237568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816237570	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816237674	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816237753	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536816237857	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536816237858	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536816238179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1536816238179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1536816238180	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1536816238181	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1536816238206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816238208	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816238221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816238225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536816238929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816238931	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 74ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536816239461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536816239635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816239636	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536816239715	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1536816239715	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1536816239716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1536816239717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1536816239720	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 5376] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536816239970	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1536816239973	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536818913228	geckodriver	INFO	geckodriver 0.19.1
+1536818913444	geckodriver	INFO	Listening on 127.0.0.1:61810
+1536818916411	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.9Ftateg3dKs8"
+1536818921416	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536818924765	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13648] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536818940393	Marionette	INFO	Listening on port 61822
+1536818940586	Marionette	INFO	Listening on port 61822
+1536818940890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536818941003	Marionette	DEBUG	loaded listener.js
+1536818941584	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536818942318	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536818942319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536818945089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536818945351	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536818945364	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536818950761	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+[GPU 13648] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium1536819010170	addons.xpi	WARN	Error parsing exten
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+OT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536819011122	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536819014757	Marionette	INFO	Listening on port 62137
+1536819014773	Marionette	INFO	Listening on port 62137
+1536819015741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536819015818	Marionette	DEBUG	loaded listener.js
+1536819015867	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536819016355	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536819016356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536819017195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819017406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819017411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819018177	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819021396	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536819021508	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536819021510	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536819021973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1536819021993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819021995	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819022335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819022337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 161ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536819024662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819024796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819024799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819025653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536819025659	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536819025689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819025868	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536819026090	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536819026095	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536819026433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1536819026433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1536819026434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1536819026436	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1536819026465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819026468	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819026481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819026487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819027021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819027024	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 83ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536819027575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819027794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536819027795	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536819028788	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819028900	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536819029039	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536819029041	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536819029760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1536819029761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1536819029763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1536819029764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1536819029849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819029873	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819029915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819029916	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 70ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536819030849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819030856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536819030858	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536819031285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1536819031451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536819031454	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536819032091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1536819032091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1536819032091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1536819032092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1536819032093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483651"
+[Parent 13748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536828683631	geckodriver	INFO	geckodriver 0.19.1
+1536828683690	geckodriver	INFO	Listening on 127.0.0.1:61487
+1536828686585	mozrunner::runner	INFO	Running command: "D:\\火狐55\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.Hh9yJL9XQutn"
+1536828691321	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/%E7%81%AB%E7%8B%9055/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1536828693984	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14476] WARNING: pipe error1536828702679	Marionette	INFO	Listening on port 61502
+1536828702773	Marionette	INFO	Listening on port 61502
+1536828703511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536828703613	Marionette	DEBUG	loaded listener.js
+1536828704838	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536828705244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536828705245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536828708456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828708643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828708645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536828709376	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536828712753	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536828712846	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536828712848	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536828713231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1536828713244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828713247	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536828713510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828713513	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 86ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1536828714421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828714520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828714527	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536828717573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536828717578	Marionette	DEBUG	Received DOM event "pageshow" for "https://topic.m.autohome.com.cn/new/marketing/2018/9/talk/"
+1536828717679	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536828718021	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.autohome.com.cn/"
+1536828718156	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.autohome.com.cn/"
+1536828718157	Marionette	DEBUG	Received DOM event "unload" for "https://www.autohome.com.cn/"
+1536828718618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1536828718618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1536828718621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1536828718622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1536828718626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828718633	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+1536828718662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.autohome.com.cn/"
+1536828718665	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.autohome.com.cn/"
+JavaScript error: https://s.autoimg.cn/comu/co.ashx?path=/as/seajs/2.3.0/bundle.js,/as/jquery/1.12.4/jquery.js,/fe/auto/index.0.1.0.js,/www/site/article/js/common.js&20180420, line 2: TypeError: R[n[a]] is undefined
+JavaScript error: https://s.autoimg.cn/comu/co.ashx?path=/as/seajs/2.3.0/bundle.js,/as/jquery/1.12.4/jquery.js,/fe/auto/index.0.1.0.js,/www/site/article/js/common.js&20180420, line 2: TypeError: R[n[a]] is undefined
+1536828719421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1536828719422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1536828719424	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 5236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w[GPU 5700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536998636042	geckodriver	INFO	geckodriver 0.19.1
+1536998636083	geckodriver	INFO	Listening on 127.0.0.1:54451
+1537003352065	geckodriver	INFO	geckodriver 0.19.1
+1537003352088	geckodriver	INFO	Listening on 127.0.0.1:61558
+1537003355199	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.12CCgejCxCYS"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537003359587	Marionette	INFO	Listening on port 61566
+1537003360438	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Child 25348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25348, Chrom[Parent 16456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 24808, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537003449995	geckodriver	INFO	geckodriver 0.19.1
+1537003450009	geckodriver	INFO	Listening on 127.0.0.1:61599
+1537003452994	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.BnKr1XGJHKwQ"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537003457027	Marionette	INFO	Listening on port 61608
+1537003457220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s.autoimg.cn/comu/co.ashx?path=/club/hotChatRooms/js/RongIMLib.js,/club/hotChatRooms/js/RongEmoji.js,/club/hotChatRooms/js/Libamr.js,/club/hotChatRooms/js/RongIMVoice.js, line 0: Successfully compiled asm.js code (total compilation time 120ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1537422531844	geckodriver	INFO	geckodriver 0.19.1
+1537422531860	geckodriver	INFO	Listening on 127.0.0.1:55398
+1537422534926	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.9CNkf0PsddzJ"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path RegUnable to read VR Path Registry from iC:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+stry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1537422545973	Marionette	INFO	Listening on port 55415
+1537422547202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 389: unreachable code after return statement
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 904: unreachable code after return statement
+JavaScript error: http://bglog.bitauto.com/getbglog.js?v=20180620, line 1: TypeError: $ is undefined
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 8400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[lChild 12384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+d/build/src/ip[Child 12384, Chrome_ChildThread] WARNING: pipe error: c/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 992, Chrome_ChildThread] WARNING: p[Parent 8400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537422569008	geckodriver	INFO	geckodriver 0.19.1
+1537422569021	geckodriver	INFO	Listening on 127.0.0.1:55645
+1537422572065	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.YE2qNgkX9Lm2"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1537422575952	Marionette	INFO	Listening on port 55657
+1537422576252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 389: unreachable code after return statement
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 904: unreachable code after return statement
+JavaScript error: http://bglog.bitauto.com/getbglog.js?v=20180620, line 1: TypeError: $ is undefined
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 5064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Child 6416, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6416, Chrome_ChildThread] WARNING: pipe [Parent 5064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7248, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537438221953	geckodriver	INFO	geckodriver 0.19.1
+1537438222003	geckodriver	INFO	Listening on 127.0.0.1:51745
+1537438224993	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.OODIgBz20S4A"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537438228604	Marionette	INFO	Listening on port 51758
+1537438228613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 389: unreachable code after return statement
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 904: unreachable code after return statement
+JavaScript error: http://bglog.bitauto.com/getbglog.js?v=20180620, line 1: TypeError: $ is undefined
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript error: https://images.pagechoice.net/data/athena/js/pc.js, line 544: TypeError: option.adsense[x] is undefined
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 13536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co[Parent 9092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 364, Chro[GPU 11688, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537491898357	geckodriver	INFO	geckodriver 0.19.1
+1537491898373	geckodriver	INFO	Listening on 127.0.0.1:53223
+1537491901479	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.VLuGIjrPS1GG"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537491905651	Marionette	INFO	Listening on port 53231
+1537491905698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 389: unreachable code after return statement
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 904: unreachable code after return statement
+JavaScript error: http://bglog.bitauto.com/getbglog.js?v=20180620, line 1: TypeError: $ is undefined
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 8236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537506198191	geckodriver	INFO	geckodriver 0.19.1
+1537506198205	geckodriver	INFO	Listening on 127.0.0.1:58135
+1537506201451	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.jl8bpggHa9Hw"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1537506212364	Marionette	INFO	Listening on port 58147
+1537506213311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 389: unreachable code after return statement
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 904: unreachable code after return statement
+JavaScript error: http://bglog.bitauto.com/getbglog.js?v=20180620, line 1: TypeError: $ is undefined
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12520, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12232
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537510505037	geckodriver	INFO	geckodriver 0.19.1
+1537510505047	geckodriver	INFO	Listening on 127.0.0.1:64546
+1537510508032	mozrunner::runner	INFO	Running command: "D:\\火狐新\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wyl\\AppData\\Local\\Temp\\rust_mozprofile.KOUE1NMO1eOm"
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wyl\AppData\Local\openvr\openvrpaths.vrpath
+1537510511892	Marionette	INFO	Listening on port 64558
+1537510512180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 389: unreachable code after return statement
+JavaScript warning: http://d2.yiche.com/js/senseNew.js, line 904: unreachable code after return statement
+JavaScript error: http://bglog.bitauto.com/getbglog.js?v=20180620, line 1: TypeError: $ is undefined
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://image.bitautoimg.com/index/js/NewsCarCard.V2.js?v=20180711.1, line 331: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript warning: http://js.bitauto.com/dealer/union/script/ads.js, line 167: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 15736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15396, Chrome_ChildThread] WARNING: pipe error: 10[Parent 15736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2544, Chrome_ChildThread] WARNING: pipe[GPU 2440, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
